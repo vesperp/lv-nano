@@ -15,3 +15,14 @@ aimas.aliyun.oss.address:https://aimas.oss-cn-shenzhen.aliyuncs.com/
 
 String accessKeyId="LTAI6GqAbo41C5OQ";
 String accessKeySecret="RbiREBZMs71LkxyB8iwyeHxWWs3QNV";
+
+
+
+# oss 地址
+aliyun.oss.endpoint=https://oss-cn-beijing.aliyuncs.com
+aliyun.oss.accessKeyId=LTAI3ERG4xBfcIQf
+aliyun.oss.accessKeySecret=3SBqxYZWhfPWzW0taKJ3Zuth1TfxwU
+aliyun.oss.bucketName=xiaodaioa
+aliyun.oss.picLocation=
+aliyun.oss.readUrl=http://xiaodaioa.oss-cn-beijing.aliyuncs.com/
+
