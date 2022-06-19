@@ -1,30 +1,3 @@
-#OSS
-aliyun.oss.endpoint:oss-cn-shenzhen.aliyuncs.com
-aliyun.oss.accessKeyId:LTAI6GqAbo41C5OQ
-aliyun.oss.accessKeySecret:RbiREBZMs71LkxyB8iwyeHxWWs3QNV
-aliyun.oss.bucketName:vipbang
-aliyun.oss.address:https://vipbang.oss-cn-shenzhen.aliyuncs.com/
-
-#aimas OSS
-aimas.aliyun.oss.endpoint:oss-cn-shenzhen.aliyuncs.com
-aimas.aliyun.oss.accessKeyId:LTAI5tDY9rmNBQiWKXyWWoHy
-aimas.aliyun.oss.accessKeySecret:lO33cl7LAU4YOm4FgkX5SehiNEWuyN
-aimas.aliyun.oss.bucketName:aimas
-aimas.aliyun.oss.address:https://aimas.oss-cn-shenzhen.aliyuncs.com/
-
-
-String accessKeyId="LTAI6GqAbo41C5OQ";
-String accessKeySecret="RbiREBZMs71LkxyB8iwyeHxWWs3QNV";
-
-
-
-# oss 地址
-aliyun.oss.endpoint=https://oss-cn-beijing.aliyuncs.com
-aliyun.oss.accessKeyId=LTAI3ERG4xBfcIQf
-aliyun.oss.accessKeySecret=3SBqxYZWhfPWzW0taKJ3Zuth1TfxwU
-aliyun.oss.bucketName=xiaodaioa
-aliyun.oss.picLocation=
-aliyun.oss.readUrl=http://xiaodaioa.oss-cn-beijing.aliyuncs.com/
 
 
 # oss 地址
